@@ -1,0 +1,20 @@
+{
+    "packStructureVersion": 26,
+    "title": "Double Armor",
+    "guid": "ad084d44-612d-46eb-a560-e3bb6816d7a2",
+    "descriptionRussian": "Доспехи в слоте украшений дают защиту вместе с основными, но бонус второго комплекта не будет активен.",
+    "descriptionEnglish": "Armor in the vanity slot gives protection along with the basic armor, but the second set bonus will not be active.",
+    "authors": [
+        {
+            "file": "1.webp",
+            "name": "Zayahーざや",
+            "color": "#ffaf00f0",
+            "link": "https://discord.gg/7dwWuQ6h",
+            "icon_height": 70
+        }
+    ],
+    "version": 1,
+    "predefined_tags": [
+        31
+    ]
+}
